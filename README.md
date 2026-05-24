@@ -1,28 +1,31 @@
 # AP1 - Core Automation System
-## Description 
+
+## 📌 Description
 Core AI automation system for managing workflows, APIs, and task execution.
-## Tech Stack 
--Node.js (Backend)
-- API Intergration
-- AI Processing (future) 
-   ## Features (Phase 1)
+
+## ⚙️ Tech Stack
+- Node.js (Backend)
+- API Integration
+- AI Processing (future)
+
+## 🚀 Features (Phase 1)
 - Basic API handler
 - Workflow trigger system
-- Task executiion logic
-  ## Project Structure
-  - /frontend > UI (later)
-  - /backend > core logic
-  - /api > API routes
-  - /config > settings
-  - /docs > documentation
-    ## Current Focus
-    Building core backend + API system
-    ## Next Step
-- Setup Backend server
+- Task execution logic
+
+## 📂 Project Structure
+- /frontend → UI (later)
+- /backend → core logic
+- /api → API routes
+- /config → settings
+- /docs → documentation
+
+## 🧠 Current Focus
+Building core backend + API system
+
+## 🔜 Next Step
+- Setup backend server
 - Create first API endpoint
-- ## Author
--  Muhammad Amirul Hafiz Bin Md Khalil Miah
--  email: amirulhafiz1132002@gmail.com
--  
-- 
-    -
+
+## 👤 Author
+- Muhammad Amirul Hafiz bin MD Khalil miah
